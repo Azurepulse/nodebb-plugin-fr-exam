@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-quickstart",
-	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"id": "nodebb-plugin-fr-exam",
+	"url": "https://github.com/NodeBB/nodebb-plugin-fr-exam",
 	"library": "./library.js",
 	"hooks": [
 		{
